@@ -22,17 +22,25 @@ Cuando no estoy automatizando procesos, estoy fabricando cerveza artesanal 🍺 
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Ollama](https://img.shields.io/badge/Ollama-000000?style=for-the-badge&logo=ollama&logoColor=white)
 
+### Hardware & IoT
+
+![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white)
+![Meshtastic](https://img.shields.io/badge/Meshtastic-2E7D32?style=for-the-badge&logo=bluetooth&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![Raspberry Pi](https://img.shields.io/badge/Raspberry_Pi-A22846?style=for-the-badge&logo=raspberry-pi&logoColor=white)
+
 ### CRM & Integraciones
 
 ![Zoho CRM](https://img.shields.io/badge/Zoho_CRM-E42527?style=for-the-badge&logo=zoho&logoColor=white)
 ![REST API](https://img.shields.io/badge/REST_API-009688?style=for-the-badge&logo=fastapi&logoColor=white)
 ![Salesforce](https://img.shields.io/badge/Salesforce-00A1E0?style=for-the-badge&logo=salesforce&logoColor=white)
+![ABAP](https://img.shields.io/badge/ABAP_SAP-0FAAFF?style=for-the-badge&logo=sap&logoColor=white)
 
 ### Dev & Cloud
 
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![SwiftUI](https://img.shields.io/badge/SwiftUI-FA7343?style=for-the-badge&logo=swift&logoColor=white)
+![Swift](https://img.shields.io/badge/Swift-FA7343?style=for-the-badge&logo=swift&logoColor=white)
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
 
 -----
@@ -48,26 +56,12 @@ Cuando no estoy automatizando procesos, estoy fabricando cerveza artesanal 🍺 
 
 -----
 
-## 📊 GitHub Stats
-
-<div align="center">
-
-![Charly’s GitHub Stats](https://github-readme-stats.vercel.app/api?username=Charlywa&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Charlywa&layout=compact&theme=tokyonight&hide_border=true)
-
-![GitHub Streak](https://streak-stats.demolab.com?user=Charlywa&theme=tokyonight&hide_border=true)
-
-</div>
-
------
-
 ## 🌐 Encuéntrame
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/tu-perfil)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/carlos-j-leyva-andalco-62432765)
 [![Florux](https://img.shields.io/badge/Florux.online-6C63FF?style=for-the-badge&logo=lightning&logoColor=white)](https://florux.online)
 [![Cervecería Santa Cruz](https://img.shields.io/badge/Cervecer%C3%ADa_Santa_Cruz-F5A623?style=for-the-badge&logo=beer&logoColor=white)](https://cerveceriasantacruz.com)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:tu@email.com)
+[![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:carlosjly@gmail.com)
 
 -----
 
